@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\bin\Debug\netcoreapp3.1\Listas_de_Objetos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Listas_de_Objetos_POO\obj\Debug\netcoreapp3.1\Listas_de_Objetos_POO.genruntimeconfig.cache
